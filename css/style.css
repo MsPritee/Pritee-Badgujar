@@ -647,7 +647,7 @@ ico-circle:before {
   background: #333;
   border-radius: 50%;
   font-size: 30px;
-  color: #666;
+  color: #fffff;
   transition: .5s;
 }
 .ico-circle::before{
