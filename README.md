@@ -1,5 +1,2 @@
 # My-Profile
-My Profile 
-
-
-https://mspritee.github.io/Pritee-Badgujar/
+[My Profile ](https://mspritee.github.io/Pritee-Badgujar/)
